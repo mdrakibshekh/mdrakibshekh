@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Md Rakib Shekh, Senior UX and Product Designer, founder of Sigma Studio" width="100%">
+  <img src="assets/banner-light.svg" alt="Md Rakib Shekh, UX Engineer and Product Designer, founder of Sigma Studio" width="100%">
 </picture>
 
 <p align="center">
@@ -17,7 +17,7 @@
 I design SaaS products and design systems, then build the tools I wish I had.
 Alongside client work I make **UIX**: a growing family of open-source and paid tools that take a design from Figma to production code without losing the details on the way.
 
-- 🎨 **Senior UX & Product Designer**, specialising in SaaS, MVPs, AI web apps and design systems
+- 🎨 **UX Engineer & Product Designer**, specialising in SaaS, MVPs, AI web apps and design systems
 - 🏢 **Founder of [Sigma Studio](https://rakibshekh.xyz)**, a boutique design studio, and **Led UX Designer at EzyOne GmbH**
 - 🌍 Based in **Dhaka, Bangladesh**, working remotely with teams worldwide
 - ⚙️ I ship code too: React, Tailwind, Figma and Framer plugins, Cloudflare Workers
